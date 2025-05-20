@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "764603990195",
+    "project_id": "bulutbilisimodev-8b11b",
+    "storage_bucket": "bulutbilisimodev-8b11b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764603990195:android:a903f2e099b33aa88d30c6",
+        "android_client_info": {
+          "package_name": "com.example.bulut_bilisim_odev_uygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBurt347b_u-eWYd4esykKW0YWNDdst4qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
